@@ -1,3 +1,4 @@
+require 'mail'
 Hashie
 Sinatra
 Octokit
